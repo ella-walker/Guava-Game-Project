@@ -29,3 +29,9 @@ guava/*.opendb
 
 # macOS files
 .DS_Store
+
+# Unity user/editor files
+Guava/UserSettings/
+Guava/.plastic/
+Guava/ignore.conf
+Guava/mono_crash*.json
