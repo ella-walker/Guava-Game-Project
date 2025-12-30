@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/start_menu.unity
+    guid: 9637d96f0e6c9479da4fc9d0fdfb185f
+  - enabled: 1
+    path: Assets/Scenes/open_page.unity
+    guid: a3ea2421623cf4bc796db1193de75bc4
+  - enabled: 1
+    path: Assets/Scenes/Room_01.unity
+    guid: 80cfc61b61c924caea3047b2525d818e
+  - enabled: 1
+    path: Assets/Scenes/Room_02.unity
+    guid: 05f38afd640634546ba388e4110a913c
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
